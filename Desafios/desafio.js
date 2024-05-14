@@ -1,4 +1,4 @@
-console.log("==== DESAFIO CLASSIFICADOR NÍVEL HÉROI ====")
+console.log("==== DESAFIO CLASSIFICADOR NÍVEL HERÓI ====")
 let nome = ("welberth")
 let experiencia = 10050
 
